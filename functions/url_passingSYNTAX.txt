@@ -1,0 +1,3 @@
+Syntax in passing data thru url without using form; same with GET Method procedure
+
+url?variable=value&variable2=value
